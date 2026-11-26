@@ -20,6 +20,7 @@
 | التصنيف | المشروع | الوصف | التقنيات |
 |---|---|---|---|
 | **تطوير وتعريب التطبيقات** | **[Atlas](https://github.com/Reda6Dev/Atlas)** | قارئ مانجا ومانهوا مفتوح المصدر لأندرويد بواجهة عربية كاملة ودعم مصادر متعددة | `Kotlin` · `Android` |
+| **تطوير وتعريب التطبيقات** | **[Game Deals Hub](https://github.com/Reda6Dev/GameDealsHub)** | تطبيق أندرويد لمتابعة تخفيضات ألعاب الحاسوب والألعاب المجانية على Steam وEpic Games | `Kotlin` · `Android` |
 | **تطوير وتعريب التطبيقات** | **[Android Studio Arabic Pack](https://github.com/Reda6Dev/android-studio-arabic-language-pack)** | حزمة تعريب شاملة لقوائم وإعدادات وحوارات Android Studio | `i18n` · `JetBrains` |
 | **أدوات تعريب الألعاب** | **[Bannerlord Translator Studio](https://github.com/Reda6Dev/Bannerlord-Translator-Studio)** | أداة سطح مكتب متكاملة لتعريب مودات Mount & Blade II: Bannerlord | `C#` · `WPF` · `.NET 8` |
 | **أدوات تعريب الألعاب** | **[Bannerlord Glossaries](https://github.com/Reda6Dev/Bannerlord-Glossaries)** | قواميس المصطلحات السحابية الموحدة لتعريب مودات Bannerlord | `JSON` · `L10n` |
