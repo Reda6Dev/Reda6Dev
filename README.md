@@ -1,6 +1,6 @@
 <div align="center">
 
-# مرحباً، أنا رضا (Reda6Dev) 👋
+# مرحباً، أنا رضا (`Reda6Dev`) 👋
 
 **مطور مستقل متخصص في تطبيقات أندرويد، أدوات سطح المكتب، وتعريب الألعاب والبرامج**
 
@@ -19,12 +19,12 @@
 
 | التصنيف | المشروع | الوصف | التقنيات |
 |---|---|---|---|
-| **تطوير وتعريب التطبيقات** | **[Atlas](https://github.com/Reda6Dev/Atlas)** | قارئ مانجا ومانهوا مفتوح المصدر لأندرويد بواجهة عربية كاملة ودعم مصادر متعددة | Kotlin · Android |
-| **تطوير وتعريب التطبيقات** | **[Android Studio Arabic Pack](https://github.com/Reda6Dev/android-studio-arabic-language-pack)** | حزمة تعريب شاملة لقوائم وإعدادات وحوارات Android Studio | i18n · JetBrains |
-| **أدوات تعريب الألعاب** | **[Bannerlord Translator Studio](https://github.com/Reda6Dev/Bannerlord-Translator-Studio)** | أداة سطح مكتب متكاملة لتعريب مودات Mount & Blade II: Bannerlord | C# · WPF · .NET 8 |
-| **أدوات تعريب الألعاب** | **[Bannerlord Glossaries](https://github.com/Reda6Dev/Bannerlord-Glossaries)** | قواميس المصطلحات السحابية الموحدة لتعريب مودات Bannerlord | JSON · L10n |
-| **أدوات النظام والإنتاجية** | **[OmniHub](https://github.com/Reda6Dev/OmniHub)** | بيئة عمل مكتبية موحدة لإدارة وتشغيل الأدوات والمهام اليومية على ويندوز | C# · WPF · .NET 8 |
-| **أدوات النظام والإنتاجية** | **[CrashSentinel](https://github.com/Reda6Dev/CrashSentinel)** | أداة لتشخيص الأعطال والتجمّد في لعبة Mount & Blade II: Bannerlord | C# · Windows |
+| **تطوير وتعريب التطبيقات** | **[Atlas](https://github.com/Reda6Dev/Atlas)** | قارئ مانجا ومانهوا مفتوح المصدر لأندرويد بواجهة عربية كاملة ودعم مصادر متعددة | `Kotlin` · `Android` |
+| **تطوير وتعريب التطبيقات** | **[Android Studio Arabic Pack](https://github.com/Reda6Dev/android-studio-arabic-language-pack)** | حزمة تعريب شاملة لقوائم وإعدادات وحوارات Android Studio | `i18n` · `JetBrains` |
+| **أدوات تعريب الألعاب** | **[Bannerlord Translator Studio](https://github.com/Reda6Dev/Bannerlord-Translator-Studio)** | أداة سطح مكتب متكاملة لتعريب مودات Mount & Blade II: Bannerlord | `C#` · `WPF` · `.NET 8` |
+| **أدوات تعريب الألعاب** | **[Bannerlord Glossaries](https://github.com/Reda6Dev/Bannerlord-Glossaries)** | قواميس المصطلحات السحابية الموحدة لتعريب مودات Bannerlord | `JSON` · `L10n` |
+| **أدوات النظام والإنتاجية** | **[OmniHub](https://github.com/Reda6Dev/OmniHub)** | بيئة عمل مكتبية موحدة لإدارة وتشغيل الأدوات والمهام اليومية على ويندوز | `C#` · `WPF` · `.NET 8` |
+| **أدوات النظام والإنتاجية** | **[CrashSentinel](https://github.com/Reda6Dev/CrashSentinel)** | أداة لتشخيص الأعطال والتجمّد في لعبة Mount & Blade II: Bannerlord | `C#` · `Windows` |
 
 ---
 
