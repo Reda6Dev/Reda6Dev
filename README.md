@@ -23,6 +23,8 @@
 | **تطوير وتعريب التطبيقات** | **[Android Studio Arabic Pack](https://github.com/Reda6Dev/android-studio-arabic-language-pack)** | حزمة تعريب شاملة لقوائم وإعدادات وحوارات Android Studio | `i18n` · `JetBrains` |
 | **أدوات تعريب الألعاب** | **[Bannerlord Translator Studio](https://github.com/Reda6Dev/Bannerlord-Translator-Studio)** | أداة سطح مكتب متكاملة لتعريب مودات Mount & Blade II: Bannerlord | `C#` · `WPF` · `.NET 8` |
 | **أدوات تعريب الألعاب** | **[Bannerlord Glossaries](https://github.com/Reda6Dev/Bannerlord-Glossaries)** | قواميس المصطلحات السحابية الموحدة لتعريب مودات Bannerlord | `JSON` · `L10n` |
+| **أدوات تعريب الألعاب** | **[CoD4 Arabic Tools](https://github.com/Reda6Dev/CoD4-Arabic-Tools)** | أداة ومثبّت تعريب لعبة Call of Duty 4: Modern Warfare مع محرك خط عربي متكامل | `Python` · `Localization` |
+| **أدوات تعريب الألعاب** | **[CoD WaW Arabic Tools](https://github.com/Reda6Dev/CoD-WaW-Arabic-Tools)** | أداة ومثبّت تعريب لعبة Call of Duty: World at War مع دعم ملفات FastFile والخط العربي | `Python` · `Localization` |
 | **أدوات النظام والإنتاجية** | **[OmniHub](https://github.com/Reda6Dev/OmniHub)** | بيئة عمل مكتبية موحدة لإدارة وتشغيل الأدوات والمهام اليومية على ويندوز | `C#` · `WPF` · `.NET 8` |
 | **أدوات النظام والإنتاجية** | **[CrashSentinel](https://github.com/Reda6Dev/CrashSentinel)** | أداة لتشخيص الأعطال والتجمّد في لعبة Mount & Blade II: Bannerlord | `C#` · `Windows` |
 
