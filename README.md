@@ -4,6 +4,8 @@
 
 **مطور مستقل متخصص في تطبيقات أندرويد، أدوات سطح المكتب، وتعريب الألعاب والبرامج**
 
+[![Website](https://img.shields.io/badge/%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-reda6dev.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reda6dev.github.io)
+[![YouTube](https://img.shields.io/badge/YouTube-@rk2003-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rk2003)
 [![GitHub](https://img.shields.io/badge/GitHub-Reda6Dev-181717?style=for-the-badge&logo=github)](https://github.com/Reda6Dev)
 
 </div>
